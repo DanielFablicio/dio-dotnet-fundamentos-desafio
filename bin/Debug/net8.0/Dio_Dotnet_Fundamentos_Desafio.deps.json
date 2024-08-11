@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dio_Dotnet_Fundamentos_Desafio/1.0.0": {
+        "runtime": {
+          "Dio_Dotnet_Fundamentos_Desafio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dio_Dotnet_Fundamentos_Desafio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

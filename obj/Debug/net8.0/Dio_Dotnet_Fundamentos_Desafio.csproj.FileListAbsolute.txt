@@ -1,0 +1,14 @@
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.AssemblyInfoInputs.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.AssemblyInfo.cs
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.csproj.CoreCompileInputs.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/bin/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/bin/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.deps.json
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/bin/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.runtimeconfig.json
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/bin/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/bin/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.pdb
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/refint/Dio_Dotnet_Fundamentos_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.pdb
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.genruntimeconfig.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/ref/Dio_Dotnet_Fundamentos_Desafio.dll
