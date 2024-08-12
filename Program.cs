@@ -46,7 +46,9 @@ do {
                         if (int.TryParse(Menu.Input, out int indexInput)) {
                             parkingLot.RemoveVehicle(indexInput);
                         } else {
-                            parkingLot.RemoveVehicle(Menu.Input);
+                            if (ParkingLot.IsValueAValidLicensePlate(Menu.Input)) {
+                                parkingLot.RemoveVehicle(Menu.Input);
+                            }
                         }
                     }
                 }

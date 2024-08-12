@@ -12,3 +12,4 @@
 /media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.pdb
 /media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.genruntimeconfig.cache
 /media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/ref/Dio_Dotnet_Fundamentos_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_Fundamentos_Desafio/obj/Debug/net8.0/Dio_Dotnet_Fundamentos_Desafio.sourcelink.json
